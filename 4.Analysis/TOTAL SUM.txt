@@ -1,0 +1,6 @@
+SQL                           419,895,286.18
+EXCLUDED IN SQL          175.80
+EXCLUDED IN SSIS         725.89
+
+TOTAL                        419,896,187.87
+TOTAL EXPECTED           419,896,187.87

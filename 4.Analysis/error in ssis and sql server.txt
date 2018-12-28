@@ -1,0 +1,14 @@
+1.a dollar sign was found in column named 2015(float)
+the error was found in sql server when data was being stored in working table due to thw mismatch of data type varchar and float
+row number 676802
+
+
+2.a duplicate customer id was found
+row number 3490750
+
+3.a data with year 1899 was found which can't be true
+row number 473484
+
+4.the maximum price taken by the company in year 2014 was 20000 which is not possible...
+max price in 2015 and 2016 was 800
+row number 902805

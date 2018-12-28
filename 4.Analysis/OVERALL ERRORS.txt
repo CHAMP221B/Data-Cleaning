@@ -1,0 +1,21 @@
+1."2738818","2014-01-01","2009 Chevrolet Traverse","118.00","1.00","122.55","725.89"
+
+original-2738818;2014-01-01;2009 Chevrolet Traverse;118;01;122.55;725.89
+
+
+there is a semicolon after 118 in the original row which caused the right shift in data and resulted in a new column 6
+
+2.a dollar sign was found in column named 2015(float)
+the error was found in sql server when data was being stored in working table due to thw mismatch of data type varchar and float
+row number 676802
+
+
+3.a duplicate customer id was found
+row number 3490750
+
+4.a data with year 1899 was found which can't be true
+row number 473484
+
+5.the maximum price taken by the company in year 2014 was 20000 which is not possible...
+max price in 2015 and 2016 was 800
+row number 902805
